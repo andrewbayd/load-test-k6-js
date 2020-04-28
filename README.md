@@ -1,0 +1,1 @@
+Example project for load testing using k6
